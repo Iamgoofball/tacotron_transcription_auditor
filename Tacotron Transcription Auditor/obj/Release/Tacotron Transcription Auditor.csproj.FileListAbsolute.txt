@@ -1,0 +1,89 @@
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\Tacotron Transcription Auditor.exe.config
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\Tacotron Transcription Auditor.exe
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\Tacotron Transcription Auditor.pdb
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\CSCore.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.Asio.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.Core.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.Midi.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.Vorbis.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.Wasapi.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.WinForms.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.WinMM.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NVorbis.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Buffers.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Memory.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Numerics.Vectors.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Security.AccessControl.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.ValueTuple.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\CSCore.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NAudio.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\NVorbis.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Buffers.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Memory.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Numerics.Vectors.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Security.AccessControl.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\System.ValueTuple.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Release\Tacotron Transcription Auditor.csprojAssemblyReference.cache
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Release\Tacotron_Transcription_Auditor.Form1.resources
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Release\Tacotron_Transcription_Auditor.Properties.Resources.resources
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Release\Tacotron Transcription Auditor.csproj.GenerateResource.cache
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Release\Tacotron Transcription Auditor.csproj.CopyComplete
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Release\Tacotron Transcription Auditor.exe
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Release\Tacotron Transcription Auditor.pdb
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\bin\windows\x64\avcodec-57.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\bin\windows\x64\avformat-57.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\bin\windows\x64\avutil-55.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\bin\windows\x64\swresample-2.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\bin\windows\x86\avcodec-57.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\bin\windows\x86\avformat-57.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\bin\windows\x86\avutil-55.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\bin\windows\x86\swresample-2.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\bzip2.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\fontconfig.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\freetype.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\frei0r.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\gme.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\gnutls.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\lame.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libass.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libbluray.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libbs2b.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libcaca.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libgsm.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libiconv.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libilbc.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libmfx.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libmodplug.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libtheora.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libvorbis.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libvpx.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\libwebp.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\opencore-amr.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\openjpeg.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\opus.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\rtmpdump.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\schroedinger.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\snappy.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\soxr.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\speex.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\twolame.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\vid.stab.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\vo-amrwbenc.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\wavpack.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\x264.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\x265.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\xavs.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\xvid.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\xz.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\zimg.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\licenses\zlib.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\FFmpeg\src\sources.txt
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\CSCore.Ffmpeg.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Release\CSCore.Ffmpeg.xml

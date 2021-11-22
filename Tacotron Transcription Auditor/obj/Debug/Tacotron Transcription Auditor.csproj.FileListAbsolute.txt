@@ -1,0 +1,39 @@
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Debug\Tacotron Transcription Auditor.csprojAssemblyReference.cache
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Debug\Tacotron_Transcription_Auditor.Form1.resources
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Debug\Tacotron_Transcription_Auditor.Properties.Resources.resources
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Debug\Tacotron Transcription Auditor.csproj.GenerateResource.cache
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\Tacotron Transcription Auditor.exe.config
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\Tacotron Transcription Auditor.exe
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\Tacotron Transcription Auditor.pdb
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\CSCore.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\CSCore.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Debug\Tacotron Transcription Auditor.csproj.CopyComplete
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Debug\Tacotron Transcription Auditor.exe
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\obj\Debug\Tacotron Transcription Auditor.pdb
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.Asio.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.Core.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.Midi.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.Wasapi.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.WinForms.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.WinMM.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Security.AccessControl.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NAudio.Vorbis.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NVorbis.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Buffers.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Memory.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.ValueTuple.dll
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\NVorbis.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Buffers.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Memory.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\iamgo\source\repos\Tacotron Transcription Auditor\Tacotron Transcription Auditor\bin\Debug\System.ValueTuple.xml
